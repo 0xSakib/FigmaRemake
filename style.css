@@ -10,4 +10,13 @@ body {
 p {
   color: #3e3e3e;
   font-size: 16px;
+  font-weight: 600;
+}
+.link-button {
+  color: white;
+  font-weight: 550;
+  background-image: linear-gradient(#ff8367, red);
+  border-radius: 6px;
+  padding: 8px 20px;
+  text-decoration: none;
 }
